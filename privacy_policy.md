@@ -1,6 +1,4 @@
----
-title: Privacy Policy
----
+# Privacy Policy
 
 This policy applies to all information collected or submitted on the InfoWarrior app for iPhone and any other devices and platforms.
 
