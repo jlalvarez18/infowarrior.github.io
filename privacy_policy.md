@@ -28,9 +28,7 @@ InfoWarrior does not share any personal data with Twitter. Other data, such as a
 
 ### Additional information collected by in-app ads
 
-InfoWarrior’s iOS app includes Facebook Audience Network ads. Facebook may use the advertising identifier from your device(s) to infer interests, demographics, and other data to show you more relevant ads. Your device advertising identifier can be disabled or reset by following these instructions from Apple.
-
-https://m.facebook.com/ads/audience_network/?_rdr
+InfoWarrior’s iOS app includes [Facebook Audience Network ads](https://m.facebook.com/ads/audience_network/?_rdr). Facebook may use the advertising identifier from your device(s) to infer interests, demographics, and other data to show you more relevant ads. Your device advertising identifier can be disabled or reset by following these instructions from Apple.
 
 InfoWarrior does not share any personal data with Facebook. Other data, such as articles being read and their categories, may be shared anonymously for ad targeting.
 
